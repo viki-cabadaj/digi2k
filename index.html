@@ -6,7 +6,12 @@
     exponea.initialize({
     "target": "//api.exponea.com",
     "token": "d93db6a0-3147-11ea-9e0e-3e1ef4540e9e",
-    // your other custom options here
+    "track": {
+        "visits": true,
+        "default_properties": {
+            "domain": window.location.hostname,
+        }
+    }
 });
 </script>
 <script>
