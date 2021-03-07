@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: digi2k.com
+Token: 96ed5723b35ae05937dc78086f6fb22b662ed12b07912f300dae954441f288b9
